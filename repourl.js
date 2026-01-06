@@ -1,1 +1,1 @@
-if ("undefined" ==typeof jQ
+if ("undefined" ==typeof jQ Test
