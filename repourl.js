@@ -15,6 +15,7 @@ function parseEntityName(fieldName) {
     var modifiedFetchXml = fetchXml.replace("&", "&amp");
    
    BBBB
+
     return entitySplit;
 }
 
