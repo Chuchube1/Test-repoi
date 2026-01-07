@@ -16,6 +16,7 @@ function parseEntityName(fieldName) {
    
    BBBB
 
+
     return entitySplit;
 }
 
